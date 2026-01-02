@@ -1,4 +1,5 @@
 # Predicting High-Price Homes in Ames, Iowa
+https://mina-tj.github.io/Predicting-High-Price-Homes-in-Ames-Iowa/
 
 This repository contains an academic classification and probability modeling project
 using the Ames Housing dataset.
